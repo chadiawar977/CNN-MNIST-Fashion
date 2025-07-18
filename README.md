@@ -1,2 +1,3 @@
 # CNN-MNIST-Fashion
-Mnist fashion using Convolution neural network 
+MNIST fashion using a Convolutional Neural Network 
+Also using Keras 
